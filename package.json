@@ -5,9 +5,9 @@
   "main": "index.js",
   "dependencies": {
     "bluebird": "^3.7.2",
-    "knex": "^0.20",
+    "knex": "git://github.com/taghash/knex#645c160c3500aa38d498d82fa2da872727822454",
     "lodash": "^4.17",
-    "pg": "^7.17.1"
+    "pg": "^8.11.3"
   },
   "devDependencies": {
     "mocha": "^7.0.0"
