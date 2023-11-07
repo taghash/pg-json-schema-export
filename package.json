@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "bluebird": "^3.7.2",
-    "knex": "git://github.com/taghash/knex#645c160c3500aa38d498d82fa2da872727822454",
+    "knex": "https://github.com/taghash/knex/releases/download/v1.3.0/knex-3.0.0.tgz",
     "lodash": "^4.17",
     "pg": "^8.11.3"
   },
